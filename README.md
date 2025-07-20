@@ -71,7 +71,3 @@ After running the script, the tool will:
 
 ---
 
-## **📌 Next Steps**
-✔ **Improve prediction accuracy with hyperparameter tuning**  
-✔ **Enhance data visualization for better insights**  
-✔ **Convert this into a web-based tool (Flask/Streamlit)**  
